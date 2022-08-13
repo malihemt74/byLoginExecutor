@@ -11,5 +11,6 @@ This shell script helps you to avoid executing some common commands(like opening
 - Any time you restart your computer, your command will run automatically.
  
  # Appreciation
- Thank you for checking this repository using this script in advanced. Any idea or contribution is appreciated.
+ Thank you for checking this repository and using this script in advanced.
+ Any idea or contribution is appreciated. Thnak you.
  malihe.mohamadi.tabar@gmail.com
