@@ -12,5 +12,5 @@ This shell script helps you to avoid executing some common commands(like opening
  
  # Appreciation
  Thank you for checking this repository and using this script in advanced.
- Any idea or contribution is appreciated. Thnak you.
+ Any idea or contribution is appreciated.
  malihe.mohamadi.tabar@gmail.com
