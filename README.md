@@ -4,9 +4,9 @@ This shell script helps you to avoid executing some common commands(like opening
 
 # Instruction
 - Open your terminal and get sure you are a sudoer.
-- Clone the project: git clone git@github.com:malihemt74/byLoginExecutor.git
-- Go to byLoginExecutor directory: cd byLoginExecutor
-- Run the script: sudo ./by_login_executor.sh
+- Clone the project: `git clone git@github.com:malihemt74/byLoginExecutor.git`
+- Go to byLoginExecutor directory: `cd byLoginExecutor`
+- Run the script: `sudo ./by_login_executor.sh`
 - Insert as many commands as you want.
 - Any time you restart your computer, your command will run automatically.
  
