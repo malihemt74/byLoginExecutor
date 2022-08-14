@@ -27,5 +27,5 @@ while :; do
   ((i++))
   echo Your command number "$i":
   read cmd
-  sudo echo $cmd >>/etc/profile.d/"$user"_command_executor.sh
+  sudo echo "$cmd &" >>/etc/profile.d/"$user"_command_executor.sh
 done
